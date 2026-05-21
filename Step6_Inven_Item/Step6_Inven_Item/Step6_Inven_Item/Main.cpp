@@ -8,6 +8,7 @@
 #include <algorithm>
 #include "Player/Item.h"
 #include <vector>
+#include "Player/PotShop.h"
 
 
 using namespace std;
@@ -210,15 +211,23 @@ int main()
 		cout << "\nYou Died.";
 	}	
 	
-	cout << "\n === Main Menu ===\n";
-	cout << " 1. Enter Dungeon\n";
-	cout << " 2. Check Inventory\n";
-	cout << " 3. Potion Shop\n"; //Step7-7. 메인메뉴에 "3. 포션 제작소" 추가하기
-	cout << " 0. Quit\n";
-	cout << "\n Choose : ";
 
+
+	
+	AlchemyWorkshop PotShop;
+	
 	while (1)
 	{
+		
+		
+		cout << "\n === Main Menu ===\n";
+		cout << " 1. Enter Dungeon\n";
+		cout << " 2. Check Inventory\n";
+		cout << " 3. Potion Shop\n"; //Step7-7. 메인메뉴에 "3. 포션 제작소" 추가하기
+		cout << " 0. Quit\n";
+		cout << "\n Choose : ";
+		
+		
 		int MenuSelect;
 		cin >> MenuSelect;
 		
@@ -244,10 +253,11 @@ int main()
 				}
 			}
 			
+			
 		}
 		else if (MenuSelect == 3)
 		{
-			
+			PotShop.EntShop();
 		}
 		else
 		{
