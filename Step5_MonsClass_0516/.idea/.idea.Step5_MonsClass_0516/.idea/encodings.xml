@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise">
+    <file url="file://$PROJECT_DIR$/Item.cpp" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/Main.cpp" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/Player/Job.cpp" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/Player/Job.cpp" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/Player/Job.h" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/Player/Job.h" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/Player/Player.cpp" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/Player/Player.cpp" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/Player/Player.h" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/Player/Player.h" charset="EUC-KR" />
+  </component>
+</project>

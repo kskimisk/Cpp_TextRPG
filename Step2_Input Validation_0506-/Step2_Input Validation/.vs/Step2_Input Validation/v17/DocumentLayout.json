@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step2_Input Validation_0506-\\Step2_Input Validation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9B0674-EEC4-44B3-9091-8196CB05452C}|Step2_Input Validation.vcxproj|C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step2_Input Validation_0506-\\Step2_Input Validation\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A9B0674-EEC4-44B3-9091-8196CB05452C}|Step2_Input Validation.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step2_Input Validation_0506-\\Step2_Input Validation\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step2_Input Validation_0506-\\Step2_Input Validation\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-06T05:05:12.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75B91A73-33B2-47FE-911C-3B7BE41DFECC}|Step4-2_seperated_260515.vcxproj|C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75B91A73-33B2-47FE-911C-3B7BE41DFECC}|Step4-2_seperated_260515.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B91A73-33B2-47FE-911C-3B7BE41DFECC}|Step4-2_seperated_260515.vcxproj|C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Archer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75B91A73-33B2-47FE-911C-3B7BE41DFECC}|Step4-2_seperated_260515.vcxproj|solutionrelative:Archer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B91A73-33B2-47FE-911C-3B7BE41DFECC}|Step4-2_seperated_260515.vcxproj|C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Warrior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75B91A73-33B2-47FE-911C-3B7BE41DFECC}|Step4-2_seperated_260515.vcxproj|solutionrelative:Warrior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B91A73-33B2-47FE-911C-3B7BE41DFECC}|Step4-2_seperated_260515.vcxproj|C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75B91A73-33B2-47FE-911C-3B7BE41DFECC}|Step4-2_seperated_260515.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B91A73-33B2-47FE-911C-3B7BE41DFECC}|Step4-2_seperated_260515.vcxproj|C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75B91A73-33B2-47FE-911C-3B7BE41DFECC}|Step4-2_seperated_260515.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B91A73-33B2-47FE-911C-3B7BE41DFECC}|Step4-2_seperated_260515.vcxproj|C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Warrior.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75B91A73-33B2-47FE-911C-3B7BE41DFECC}|Step4-2_seperated_260515.vcxproj|solutionrelative:Warrior.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B91A73-33B2-47FE-911C-3B7BE41DFECC}|Step4-2_seperated_260515.vcxproj|C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Archer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75B91A73-33B2-47FE-911C-3B7BE41DFECC}|Step4-2_seperated_260515.vcxproj|solutionrelative:Archer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B91A73-33B2-47FE-911C-3B7BE41DFECC}|Step4-2_seperated_260515.vcxproj|C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Thief.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75B91A73-33B2-47FE-911C-3B7BE41DFECC}|Step4-2_seperated_260515.vcxproj|solutionrelative:Thief.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B91A73-33B2-47FE-911C-3B7BE41DFECC}|Step4-2_seperated_260515.vcxproj|C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Magician.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75B91A73-33B2-47FE-911C-3B7BE41DFECC}|Step4-2_seperated_260515.vcxproj|solutionrelative:Magician.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B91A73-33B2-47FE-911C-3B7BE41DFECC}|Step4-2_seperated_260515.vcxproj|C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Thief.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75B91A73-33B2-47FE-911C-3B7BE41DFECC}|Step4-2_seperated_260515.vcxproj|solutionrelative:Thief.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B91A73-33B2-47FE-911C-3B7BE41DFECC}|Step4-2_seperated_260515.vcxproj|C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Magician.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75B91A73-33B2-47FE-911C-3B7BE41DFECC}|Step4-2_seperated_260515.vcxproj|solutionrelative:Magician.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Archer.cpp",
+              "DocumentMoniker": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Archer.cpp",
+              "RelativeDocumentMoniker": "Archer.cpp",
+              "ToolTip": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Archer.cpp",
+              "RelativeToolTip": "Archer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-15T08:10:14.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Thief.cpp",
+              "DocumentMoniker": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Thief.cpp",
+              "RelativeDocumentMoniker": "Thief.cpp",
+              "ToolTip": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Thief.cpp",
+              "RelativeToolTip": "Thief.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-15T08:10:10.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Magician.cpp",
+              "DocumentMoniker": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Magician.cpp",
+              "RelativeDocumentMoniker": "Magician.cpp",
+              "ToolTip": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Magician.cpp",
+              "RelativeToolTip": "Magician.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-15T08:10:06.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Warrior.cpp",
+              "DocumentMoniker": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Warrior.cpp",
+              "RelativeDocumentMoniker": "Warrior.cpp",
+              "ToolTip": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Warrior.cpp",
+              "RelativeToolTip": "Warrior.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-15T08:10:01.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Magician.h",
+              "DocumentMoniker": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Magician.h",
+              "RelativeDocumentMoniker": "Magician.h",
+              "ToolTip": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Magician.h",
+              "RelativeToolTip": "Magician.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-15T08:07:34.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Thief.h",
+              "DocumentMoniker": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Thief.h",
+              "RelativeDocumentMoniker": "Thief.h",
+              "ToolTip": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Thief.h",
+              "RelativeToolTip": "Thief.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-15T08:07:28.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Archer.h",
+              "DocumentMoniker": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Archer.h",
+              "RelativeDocumentMoniker": "Archer.h",
+              "ToolTip": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Archer.h",
+              "RelativeToolTip": "Archer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-15T08:07:23.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Warrior.h",
+              "DocumentMoniker": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Warrior.h",
+              "RelativeDocumentMoniker": "Warrior.h",
+              "ToolTip": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Warrior.h",
+              "RelativeToolTip": "Warrior.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-15T08:04:59.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-15T07:51:32.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Player.cpp",
+              "RelativeToolTip": "Player.cpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAG4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-15T07:51:12.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\kimis\\Desktop\\Unreal_class\\UE_Cpp_mission\\Cpp_TextRPG\\Step4-2_seperated_260515\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-15T07:50:07.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

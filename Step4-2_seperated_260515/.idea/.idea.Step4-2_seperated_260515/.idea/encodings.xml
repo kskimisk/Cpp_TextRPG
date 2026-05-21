@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise">
+    <file url="file://$PROJECT_DIR$/Archer.cpp" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/Magician.cpp" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/Main.cpp" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/Player.cpp" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/Player.h" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/Thief.cpp" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/Warrior.cpp" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/Warrior.h" charset="EUC-KR" />
+  </component>
+</project>
